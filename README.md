@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi I'm Adam
 
-<!--
-**adamchr88/adamchr88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science ( + Games Development) student at SETU Waterford with an interest in Software Engineering, Backend Development and Game Development.
 
-Here are some ideas to get you started:
+## Technologies I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- JavaScript
+- C# / C++
+- JavaFX
+- Node.js / Express
+- React
+- Unity / Unreal Engine
+- Git & GitHub
+- Blender / Maya
+- MongoDB
+- SQL
+
+## My Featured Projects
+
+### CV Tailoring AI Agent
+AI-powered Python application for tailoring CVs and application content to job descriptions.
+
+### Leaf Vision
+JavaFX image-processing application featuring Union-Find clustering and TSP pathfinding.
+
+### Miniature Mayhem
+First-person Unity game featuring environmental hazards, AI and interactive gameplay systems.
+
+### Footballers App
+Full-stack football team management application built using Node.js, Express and Handlebars.
+
+
+## Connect With Me
+
+[LinkedIn](https://linkedin.com/in/adam-christensen-3b9556361)  
+
