@@ -4,10 +4,10 @@ I'm a Computer Science ( + Games Development) student at SETU Waterford, passion
 
 ## Technologies I use
 
-- Java
-- Python
-- JavaScript
-- C# / C++
+- Java  Python  JavaScript  C# / C++
+-
+- 
+
 - JavaFX
 - Node.js / Express
 - React
@@ -17,6 +17,6 @@ I'm a Computer Science ( + Games Development) student at SETU Waterford, passion
 - MongoDB
 - SQL
 
-[LinkedIn](https://linkedin.com/in/adam-christensen-3b9556361)  
-[Email](adamchr005@gmail.com)
+[LinkedIn](https://linkedin.com/in/adam-christensen-3b9556361)      [Email](adamchr005@gmail.com)
+
 
