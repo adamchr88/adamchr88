@@ -1,6 +1,6 @@
 # Hi I'm Adam
 
-I'm a Computer Science ( + Games Development) student at SETU Waterford, passionate for Software Engineering, Backend Development and Game Development.
+I'm a Computer Science (Games Development) student at SETU Waterford, passionate about Software Engineering, Backend Development and Game Development.
 
 ## Technologies I Use
 
@@ -13,7 +13,7 @@ I'm a Computer Science ( + Games Development) student at SETU Waterford, passion
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Frameworks & Development
+### Web & Application Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -41,9 +41,10 @@ I'm a Computer Science ( + Games Development) student at SETU Waterford, passion
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=flat&logo=autodesk&logoColor=white)
 
+## Connect With Me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Christensen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-christensen-3b9556361)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Christensen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-christensen-3b9556361)          [![Email](https://img.shields.io/badge/Email-adamchr005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamchr005@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-adamchr88-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adamchr88)
+
 
 
