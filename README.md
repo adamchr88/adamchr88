@@ -24,7 +24,7 @@ I'm a Computer Science ( + Games Development) student at SETU Waterford, passion
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Cloud, DevOps & Tools
+### Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -41,7 +41,9 @@ I'm a Computer Science ( + Games Development) student at SETU Waterford, passion
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=flat&logo=autodesk&logoColor=white)
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Christensen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-christensen-3b9556361)
+
 [![GitHub](https://img.shields.io/badge/GitHub-adamchr88-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adamchr88)
 
 
